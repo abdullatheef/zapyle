@@ -86,7 +86,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #TWITTER
-CK = 'xXz6dPy7UL3TXzzMo4TZO2EFW'
-CS = '1PRnuG8X8GEeGbpWrmEuPi0Nwk68tmOOOjqRAYT7WWqedjPGdZ'
-AT = '2288546126-KCMQRJXwCp1bapkPv99If2Jb1BoqZJyyoHqOV9f'
-ATS = 'aA87f5Vwf1UOA64saOjkud6kA9RaHtJmXV62ZSiDFBqjn'
+CK = 'consumer key'
+CS = 'consumer secret'
+AT = 'access token'
+ATS = 'access token seceret'
